@@ -4,6 +4,7 @@ Rails.application.routes.draw do
 
   # Defines the root path route ("/")
   # root "articles#index"
+  
   # resources :categories, only: [:index, :show] do
   #   member do
   #     get 'description'
